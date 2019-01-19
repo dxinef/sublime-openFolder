@@ -1,0 +1,4 @@
+[
+	{ "caption": "-", "id": "folder_commands" },
+	{ "caption": "打开文件夹…", "command": "open_folder",  "args": {"paths": []} }
+]
